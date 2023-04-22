@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eissa25
-- 👀 I’m interested in codeing.sience.cooking.and gameing
+- 👀 I’m interested in codeing.sience.cooking.and gaming
 and i am new in github
 
 <!---
